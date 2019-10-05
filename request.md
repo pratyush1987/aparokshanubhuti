@@ -2,9 +2,11 @@
 
 ## What is aagama?
 
-Aagama is a humble effort to only systematically document what has been revealed in the many texts and explained by the many realised teachers. Everything in Aagama is fully open sourced and always free for access both from the aagama website https://aagama.org and from [this](https://github.com/pratyush1987/aparokshanubhuti.git) Git repository. 
+Aagama is a humble effort to systematically collate what has been revealed in our many texts and explained by many realised teachers. It is intended as an aid for spiritual seekers by providing several texts in a normalised and searchable format. 
 
-The word aagama (आगम) literally means something handed down by tradition, and is often used to refer to the collective of sacred texts.
+Everything in Aagama is fully open sourced and always free for access both from the aagama website https://aagama.org and from [this](https://github.com/pratyush1987/aparokshanubhuti.git) Git repository. 
+
+The word aagama (आगम) literally means something handed down by tradition, and is often used to refer to the collective of our sacred texts.
 
 ## I found an error, how can I report it?
 
