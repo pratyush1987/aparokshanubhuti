@@ -1,20 +1,20 @@
 # Request to readers
 
-## What is sangraha?
+## What is aagama?
 
-## i found an error, how can i report it?
+## I found an error, how can I report it?
 
 The content is input manually from different sources, and the likelihood of errors is high. We request readers to kindly report errors that they find. You can do so by sending an email to pratyushkpanda@gmail.com with the subject like 'Error in Aparokshanubhuti text'. 🙏
 
-## How can i contribute?
+## How can I contribute?
 
-We will greatly appreciate any help from you. We would like to include the following to our collections:
+We will greatly appreciate any help from you. In particular, we solicit help to include the following:
 
-* Transliteration of the verses into other languages
+* Transliteration of verses into other scripts
 * Translation of the meaning into other languages
-* Addition of commentaries by different teachers
+* Addition of commentaries by other teachers
 
 ## What skills are required to contribute?
 
-We use the \[Gitbook\]\([https://gitbook.io\](https://gitbook.io\)\) tool to feed in content for this site. The two major advantages of this are \(a\) no programming needed, and \(b\) systematic review and merging of contributions made by various contributors.
+We use Gitbook/Github to input and manage content for this site. The two major advantages of this are \(a\) allowing users to contribute text without any programming needed, and \(b\) enabling systematic review and merging of contributions made by various contributors. If you had like to volunteer, please send an email to pratyushkpanda@gmail.com with the subject 'Volunteering for Aagama'. 🙏 
 
