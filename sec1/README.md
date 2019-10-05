@@ -20,11 +20,12 @@ This being an introductory \(prakarana\) text, in the six verses \(4 through 9\)
   * [sraddha and samadhana](008.md)
 * [mumukshutvam](009.md)
 
-These means, Adi Shankaracharya says must be employed by the student for the central duty of deep contemplation/enquiry \(vichara\). He then exemplifies the manner of enquiry in the following five verses which setup the topics covered in the book.
+These means, Adi Shankaracharya [says](010.md) must be employed by the students for deep contemplation/enquiry \(vichara\), as it is [essential](011.md) for liberation. He then exemplifies the manner of enquiry in the following five verses which setup the topics covered in the book.
 
-* the central questions about self, world, and the Lord,
-* the negation of the perceived self,
-* the material and efficient causes of the world,
-* the underlying substance behind the above, and
-* the real nature of the Self
+* the [central questions](012.md) about self, world, and the Lord,
+* the [negation](013.md) of the perceived self,
+* the material and efficient [causes](014.md) of the world,
+* the [underlying substance](015.md) behind the above, and
+* the [real nature](016.md) of the Self
+
 
