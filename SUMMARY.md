@@ -2,7 +2,14 @@
 
 * [Introduction](README.md)
 * [Request to readers](request.md)
-* [Section 1: Verses 1-20](sec1/README.md)
+* [Section 1: Verses 1-3](sec1/README.md)
   * [Verse 1](sec1/001.md)
   * [Verse 2](sec1/002.md)
-
+  * [Verse 3](sec1/003.md)
+* [Section 2: Verses 4-9](sec2/README.md)
+  * [Verse 4](sec2/004.md)
+  * [Verse 5](sec2/005.md)
+  * [Verse 6](sec2/006.md)
+  * [Verse 7](sec2/007.md)
+  * [Verse 8](sec2/008.md)
+  * [Verse 9](sec2/009.md)
