@@ -28,4 +28,3 @@ These means, Adi Shankaracharya [says](010.md) must be employed by the students 
 * the [underlying substance](015.md) behind the above, and
 * the [real nature](016.md) of the Self
 
-

@@ -19,6 +19,6 @@
   * [Verse 14](sec1/014.md)
   * [Verse 15](sec1/015.md)
   * [Verse 16](sec1/016.md)
-* [Section 2: Verses 17-40](sec2/README.md)
-* [Section 3: Verses 40-](sec3/README.md)
+* [Section 2: Verses 17-40](section-2-verses-17-40.md)
+* [Section 3: Verses 40-](section-3-verses-40.md)
 

@@ -1,12 +1,14 @@
 # Request to readers
 
-## What is aagama?
+## What is Hamsikaa?
 
-Aagama is a humble effort to systematically collate what has been revealed in our many texts and explained by many realised teachers. It is intended as an aid for spiritual seekers by providing several texts in a normalised and searchable format.
+Hamsikaa is a humble effort to collate what has been revealed in our many texts and explained by many realised teachers. It is intended as a study aid for spiritual seekers that includes several texts in a normalised and searchable format. 
 
-Everything in Aagama is fully open sourced and always free for access both from the aagama website [https://aagama.org](https://aagama.org) and from [this](https://github.com/pratyush1987/aparokshanubhuti.git) Git repository.
+Everything in Hamsikaa is fully open sourced and always free for access both from the Hamsikaa website [https://hamsikaa.org](https://aagama.org) and from [this](https://github.com/pratyush1987/aparokshanubhuti.git) Git repository for this text.
 
-The word aagama \(आगम\) literally means something handed down by tradition, and is often used to refer to the collective of our sacred texts.
+The word Hamsikaa \(हंसिका\) literally means a swan. The original inspiration was the phrase muni-maansa-hamsikaa \(मुनि-मानास-हंसिका\) in Lalitha Sahasranamam, which refers to Devi as the swan floating in the calm lake of the mind of a seer. Infinite salutations to that Devi. 🙏 
+
+![Muni-Maanasa-Hamsika \(from Wiki-commons\)](.gitbook/assets/1280px-mute_swan_vrhnika.jpg)
 
 ## I found an error, how can I report it?
 
