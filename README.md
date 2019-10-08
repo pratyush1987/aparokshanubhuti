@@ -6,7 +6,7 @@ description: Aparokshanubhuti by Sri Shankaracharya - श्री शंकर�
 
 ## What is Hamsikaa?
 
-Hamsikaa is a humble effort to collate what has been revealed in our many texts and explained by many realised teachers. It is intended as a study aid for spiritual seekers that includes several texts in a normalised and searchable format. 
+Hamsikaa is a humble effort to collate what has been revealed in our many texts and explained by many realised teachers. It is intended as a study aid for spiritual seekers, that provides texts in a normalised and searchable format. 
 
 Everything in Hamsikaa is fully open sourced and always free for access both from the Hamsikaa website [https://hamsikaa.org](https://aagama.org) and from [this](https://github.com/pratyush1987/aparokshanubhuti.git) Git repository \(specific to Aparokshanubhuti\).
 
