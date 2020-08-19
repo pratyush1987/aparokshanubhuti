@@ -24,6 +24,11 @@ The word Hamsikaa \(हंसिका\) literally means swan. The original insp
 
 ## Sources referred
 
+1. Dipika \(दीपिका\) by [Jagadguru Vidyaranya](https://en.wikipedia.org/wiki/Vidyaranya)
+2. Commentary by Swami Vimuktananda 
+3. Commentary by Swami Chinmayananda 
+4. Video lectures by Swami Sarvapriyananda 
+
 ## Request to readers - Report errors
 
 The content is input manually from different sources, and the likelihood of errors is high. We request readers to kindly report errors that they find. You can do so by sending an email to pratyushkpanda@gmail.com with the subject like 'Error in Aparokshanubhuti text'. 🙏
