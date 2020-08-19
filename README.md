@@ -4,6 +4,8 @@ description: Aparokshanubhuti by Sri Shankaracharya - श्री शंकर�
 
 # Introduction
 
+## Om, Shri Ganesaya Namah
+
 ## What is Hamsikaa?
 
 Hamsikaa is a humble effort to collate what has been revealed in our many texts and explained by many realised teachers. It is intended as a study aid for spiritual seekers, that provides texts in a normalised and searchable format. 
